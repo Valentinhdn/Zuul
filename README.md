@@ -1,2 +1,2 @@
 # Zuul
-Jeu vidéo d'aventure en Java
+Jeu d'aventure en Java
