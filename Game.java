@@ -5,6 +5,7 @@ import java.util.Scanner;
  * Elle gère le lancement du jeu, les room et les commandes
  *
  * @author Valentin
+ * @version 25/10/2023
  */
 public class Game
 {
